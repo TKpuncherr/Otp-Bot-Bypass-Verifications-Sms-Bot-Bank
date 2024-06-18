@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^12.5.3",
+    "discord.js": "^13.14.0",
     "libphonenumber-js": "^1.9.22",
     "quick.db": "^7.1.3"
   },
